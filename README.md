@@ -13,6 +13,9 @@ Projects developed with:
 Open Souce Personal Repos:
 - [Plant ID Discord Bot](https://github.com/TheRealOwenRees/plantID_discordbot) - A Discord bot that identifies plants from photos of their organs, passing to the [Plantnet API] for identification. This bot was written for [Sustainable Living Hub](https://discord.com/invite/gQU5yWg)
 
+Contributions:
+- [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
+
 <!--
 **TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
