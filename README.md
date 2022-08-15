@@ -1,6 +1,11 @@
-### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealOwenRees&show_icons=true&include_all_commits=true)
 
-![TheRealOwenRees' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealOwenRees&show_icons=true&include_all_commits=true)
+### Programming Languages 🌐
+
+Projects developed with:
+- Python
+- Javascript / Node.js
+
 
 <!--
 **TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
