@@ -1,6 +1,6 @@
 ## Programming Languages 🌐
 
-Projects developed with:
+### Projects developed with:
 - Python
 - Javascript / Node.js
 
@@ -8,10 +8,10 @@ Projects developed with:
 
 ## Projects 🔭
 
-Open Source Personal Repos:
+### Open Source Personal Repos:
 - [Plant ID Discord Bot](https://github.com/TheRealOwenRees/plantID_discordbot) - A Discord bot that identifies plants from photos of their organs, passing to the [Plantnet API](https://my.plantnet.org/) for identification. This bot was written for [Sustainable Living Hub](https://discord.com/invite/gQU5yWg)
 
-Contributions:
+### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
 
 <!--
