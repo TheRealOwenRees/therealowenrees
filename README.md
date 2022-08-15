@@ -7,6 +7,9 @@ Projects developed with:
 - Javascript / Node.js
 
 
+Open Souce Personal Repos:
+- Plant ID Discord Bot(https://github.com/TheRealOwenRees/plantID_discordbot)
+
 <!--
 **TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
