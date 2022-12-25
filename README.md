@@ -4,7 +4,7 @@
 
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 
-With a tiny bit of:
+and a tiny bit of:
 
 <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
 
