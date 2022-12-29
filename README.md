@@ -8,6 +8,10 @@ and a tiny bit of:
 
 <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
 
+### Using the following tools:
+
+<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
+
 ## Projects 🔭
 
 ### Open Source Personal Repos:
