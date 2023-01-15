@@ -16,7 +16,7 @@ and a tiny bit of:
 
 ### Open Source Personal Repos:
 - [Plant ID Discord Bot](https://github.com/TheRealOwenRees/plantID_discordbot) - A Discord bot that identifies plants from photos of their organs, passing to the [Plantnet API](https://my.plantnet.org/) for identification. This bot was written for [Sustainable Living Hub](https://discord.com/invite/gQU5yWg)
-- [PFAF Discord Bot](https://github.com/TheRealOwenRees/PFAF_discordbot) - A Discord bot that searches for and pulls data from [PFAF.org](https://pfaf.org)
+- [Country Roles Discord Bot](https://github.com/TheRealOwenRees/country-roles) - A Discord bot to add country roles functionality to your Discord server.
 
 ### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
