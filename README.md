@@ -12,6 +12,8 @@ and a tiny bit of:
 
 <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
 
+[![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects 🔭
 
 ### Open Source Personal Repos:
@@ -21,8 +23,4 @@ and a tiny bit of:
 ### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
 
-[![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
