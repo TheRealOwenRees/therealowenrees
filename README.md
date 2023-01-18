@@ -21,9 +21,8 @@ and a tiny bit of:
 ### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
 
+[![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
