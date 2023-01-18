@@ -21,7 +21,9 @@ and a tiny bit of:
 ### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
 
-<!--
-**TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealOwenRees&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+**TheRealOwenRees/therealowenrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
