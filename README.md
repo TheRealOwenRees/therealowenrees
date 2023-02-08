@@ -24,3 +24,5 @@ and a tiny bit of:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
 
 [![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+Icons courtesy of [Icons8](https://icons8.com/)
