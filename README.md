@@ -10,7 +10,7 @@ and a tiny bit of:
 
 ### Using the following tools:
 
-<img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://img.icons8.com/color/48/null/intellij-idea.png"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
 
 [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
