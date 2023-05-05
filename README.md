@@ -14,7 +14,7 @@ and a tiny bit of:
 
 [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://www.codewars.com/users/TheRealOwenRees/badges/small"  />
+<img src="https://www.codewars.com/users/TheRealOwenRees/badges/large"  />
 
 ## Projects 🔭
 
