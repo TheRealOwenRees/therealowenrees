@@ -4,10 +4,6 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/><img src="https://img.icons8.com/fluency/48/null/css3.png"/><img src="https://img.icons8.com/color/48/null/sass.png"/><img src="https://img.icons8.com/ultraviolet/48/null/react--v1.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png"/><img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
 
-and a tiny bit of:
-
-<img src="https://img.icons8.com/color/48/null/c-programming.png"/>
-
 ### Using the following tools:
 
 <img src="https://img.icons8.com/color/48/null/intellij-idea.png"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
