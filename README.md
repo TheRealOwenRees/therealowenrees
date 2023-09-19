@@ -1,25 +1,9 @@
-## Programming Languages 🌐
-
-### Projects developed with:
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/><img src="https://img.icons8.com/fluency/48/null/css3.png"/><img src="https://img.icons8.com/color/48/null/sass.png"/><img src="https://img.icons8.com/ultraviolet/48/null/react--v1.png"/><img src="https://img.icons8.com/color/48/null/mongodb.png"/><img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
-
-### Using the following tools:
-
-<img src="https://img.icons8.com/color/48/null/intellij-idea.png"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
-
-[![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects 🔭
+## Projects
 
 ### Open Source Personal Repos:
 - [Echecs France](https://github.com/TheRealOwenRees/echecsfrance) - A website displaying upcoming chess tournaments for the [FFE](https://www.echecs.asso.fr/) on a map
-- [PGN to TeX](https://github.com/TheRealOwenRees/pgn2tex) - A chess PGN to LaTex conversion tool. Available on NPM as [pgn2tex](https://www.npmjs.com/package/pgn2tex)
+- [PGN to TeX](https://github.com/TheRealOwenRees/pgn2tex) - A chess PGN to LaTex conversion tool.
 - [Plant ID Discord Bot](https://github.com/TheRealOwenRees/plantID_discordbot) - A Discord bot that identifies plants from photos of their organs, passing to the [Plantnet API](https://my.plantnet.org/) for identification. This bot was written for [Sustainable Living Hub](https://discord.com/invite/gQU5yWg)
 
 ### Contributions:
 - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
-
-[![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=TheRealOwenRees&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-Icons courtesy of [Icons8](https://icons8.com/)
